@@ -24,6 +24,7 @@ p {
     font-size: 13px;
     font-weight: bold;
     width: 120px;
+    border-radius: 4px;
 }
 
 .button:hover {
@@ -42,7 +43,6 @@ p {
   .header-right {
     float: right;
     border: lightseagreen;
-    text
   }
 
 
