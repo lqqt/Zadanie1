@@ -1,0 +1,18 @@
+p {
+    font-style: normal;
+    font-size: 13px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.button {
+    background-color: #DCDCDC; /* Green */
+    border: none;
+    color: #808080;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    font-weight: bold;
+    width: 120px;
+}
